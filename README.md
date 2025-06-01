@@ -2,7 +2,7 @@
 
 This is Bowen Yu.
 
-```python
+```plain text
 I haven't decided what to put here yet. Rest assured, though, we'll handle this soon.
 ```
 
