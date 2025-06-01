@@ -1,6 +1,8 @@
-## You are in Bowen's realm. Stay chill.
+## You are in Bowen's realm. STAY CHILL.
 
-This is Bowen Yu, an international undergrad student from China at MIT, Class of 2027.
+This is Bowen Yu.
+
+I haven't decided what to put here yet. Rest assured, though, we'll deal with this soon.
 
 <!--
 **bowenyu066/bowenyu066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
