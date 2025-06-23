@@ -1,5 +1,7 @@
 ## You are in Bowen's realm. STAY CHILL.
 
+![snake gif](https://github.com/bowenyu066/bowenyu066/blob/output/github-contribution-grid-snake.svg)
+
 This is Bowen Yu.
 
 ```plain text
