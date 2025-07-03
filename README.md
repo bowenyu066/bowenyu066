@@ -4,9 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bowenyu066/bowenyu066/output/github-contribution-grid-snake.svg">
 </picture>
 
-BOWEN YU IS WATCHING YOU
-
-<p style="text-align:center;">This text will be centered.</p>
+...........................................................**BOWEN YU IS WATCHING YOU**.............................................................................
 
 <!--
 **bowenyu066/bowenyu066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
