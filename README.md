@@ -1,4 +1,4 @@
-## _Beware! For Bowen Yu hath his eye on thee._
+## _BEWARE! FOR BOWEN YU HATH HIS EYE ON THEE._
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bowenyu066/bowenyu066/output/github-contribution-grid-snake-dark.svg">
